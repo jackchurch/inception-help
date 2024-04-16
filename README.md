@@ -1,3 +1,5 @@
+Forked from and translated from [codesshaman](https://github.com/codesshaman/inception/)
+
 # inception
 
 Project inception (school 42/21).
